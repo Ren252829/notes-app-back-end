@@ -1,0 +1,2 @@
+ini adalah link dari front-end yang digunakan pada projek ini
+http://notesapp-v1.dicodingacademy.com/
